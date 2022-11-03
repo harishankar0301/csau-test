@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.862566cd.css",
-    "main.js": "./static/js/main.55e3964c.js",
-    "static/media/entire-bg.png": "./static/media/entire-bg.1d8acc54b294163e2ea6.png",
-    "static/media/cs.svg": "./static/media/cs.487f3f60614ffbc75796.svg",
-    "static/media/section-img.png": "./static/media/section-img.2141e6df356a6a6ddffc.png",
-    "static/media/blogBg.jpeg": "./static/media/blogBg.7bb81a1447f9a247d5e8.jpeg",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "./index.html",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
-    "static/media/bg.svg": "./static/media/bg.3322f9ff590500903330.svg",
-    "main.862566cd.css.map": "./static/css/main.862566cd.css.map",
-    "main.55e3964c.js.map": "./static/js/main.55e3964c.js.map"
+    "main.css": "/csau-test/static/css/main.a3711544.css",
+    "main.js": "/csau-test/static/js/main.55e3964c.js",
+    "static/media/entire-bg.png": "/csau-test/static/media/entire-bg.1d8acc54b294163e2ea6.png",
+    "static/media/cs.svg": "/csau-test/static/media/cs.487f3f60614ffbc75796.svg",
+    "static/media/section-img.png": "/csau-test/static/media/section-img.2141e6df356a6a6ddffc.png",
+    "static/media/blogBg.jpeg": "/csau-test/static/media/blogBg.7bb81a1447f9a247d5e8.jpeg",
+    "static/media/slick.svg": "/csau-test/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/csau-test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/csau-test/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/csau-test/index.html",
+    "static/media/slick.woff": "/csau-test/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/bg.svg": "/csau-test/static/media/bg.3322f9ff590500903330.svg",
+    "main.a3711544.css.map": "/csau-test/static/css/main.a3711544.css.map",
+    "main.55e3964c.js.map": "/csau-test/static/js/main.55e3964c.js.map"
   },
   "entrypoints": [
-    "static/css/main.862566cd.css",
+    "static/css/main.a3711544.css",
     "static/js/main.55e3964c.js"
   ]
 }
